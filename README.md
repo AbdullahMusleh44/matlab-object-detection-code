@@ -18,4 +18,4 @@ FASTER_RCNN: fasterRcnnModel\
 FINALSSD: SSD_Model\
 FINALYOLOv2: yoloV2Model
 
-Note: All supporting functions for the models are obtained from MathWorks website and are needed for the models to function.\
+Note: All supporting functions for the models are obtained from MathWorks website and are needed for the models to function.
