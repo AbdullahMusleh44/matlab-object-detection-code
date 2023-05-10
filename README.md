@@ -1,5 +1,5 @@
 # Matlab-object-detection-code
-Object Detection Models\ 
+
 This repository contains three object detection models implemented using the Faster R-CNN, SSD, and YOLOv2 algorithms. The models were developed as part of a university coursework on computer vision and deep learning and aided in the writing of a research paper on "A Deep Learning Study: Comparing Faster R-CNN, SSD, and YOLOv2 for Human Detection in CCTV Surveillance Systems"\
 
 About the Models\
