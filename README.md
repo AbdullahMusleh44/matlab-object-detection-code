@@ -16,6 +16,6 @@ data: Contains the dataset used for training and evaluation.
 The main model file for each model is:\
 FASTER_RCNN: fasterRcnnModel\
 FINALSSD: SSD_Model\
-FINALYOLOv2: yoloV2Model\
+FINALYOLOv2: yoloV2Model
 
 Note: All supporting functions for the models are obtained from MathWorks website and are needed for the models to function.\
