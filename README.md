@@ -11,7 +11,7 @@ The repository has the following structure:
 FASTER_RCNN: Contains the Faster R-CNN model implementation.\
 FINALSSD: Contains the SSD model implementation.\
 FINALYOLOv2: Contains the YOLOv2 model implementation.\
-data: Contains the dataset used for training and evaluation.\
+data: Contains the dataset used for training and evaluation.
 
 The main model file for each model is:\
 FASTER_RCNN: fasterRcnnModel\
